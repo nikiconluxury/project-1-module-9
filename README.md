@@ -1,3 +1,5 @@
+Presentation URL: https://docs.google.com/presentation/d/1GS40K2hoasom7dlR1A4ynHZwLb3ARjR0c8L5hmH4H1g/edit?usp=sharing
+
 Project Overview: Uber Rides and Weather
 
 Objective: Investigate the relationship between weather conditions and Uber ride frequency to understand how temperature extremes affect commuter habits and surge-pricing strategies. This project will provide valuable insights into how weather affects Uber ride frequency, commuter habits, and potential strategies for surge pricing based on temperature extremes.
